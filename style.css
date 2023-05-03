@@ -1,0 +1,81 @@
+.starbucks-logo{
+    width: 50px ;
+}
+
+.find-store{
+    color: #000;
+    font-size: medium;
+}
+
+/* #navbar-nav:hover{
+    color: #00754a;
+}
+
+#menu :hover{
+    color: #00754a;
+} */
+
+.row1{
+    background-color: #a0c292 ;
+}
+
+.row2{
+    background-color:#d4e9e2 ;
+}
+
+.row3{
+    background-color: #f6bfd9 ;
+}
+
+.row4{
+    background-color: #ffc519 ;
+}
+
+.row5{
+    background-color: #fff4d4 ;
+}
+
+.row6{
+    background-color: #1e3932 ;
+}
+
+.header-titles{
+    margin-left: 8px;
+    color: #000;
+}
+
+.header-titles:hover{
+    color: #00754a;
+}
+
+ul {
+    list-style-type: none;
+}
+.footer-list-lg{
+    margin-top: 15px;
+    margin-left: -30px;
+}
+
+.copyright{
+    color: #a0a0a0;
+}
+
+.footer-links{
+    cursor: pointer;
+}
+
+.dropdown-item, .footer-list-lg{
+    color: #a0a0a0;
+}
+
+.footer-privacy-links:hover{
+    text-decoration: underline;
+}
+
+.footer-list-lg:hover{
+    color: #000000;
+}
+
+.dropdown-item:hover{
+    color: #000000;
+}
